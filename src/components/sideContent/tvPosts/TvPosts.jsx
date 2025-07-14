@@ -38,7 +38,7 @@ const TvPosts = () => {
     <>
       <section className="tpost">
         <Link to={"/tv-en-acara"}>
-          <Heading title={"TV EN Acara"} />
+          <Heading title={"TV EN QUATIPURU"} />
           {renderedItems.map((val) => {
             return (
               <div key={val.id} className="box flexSB">
