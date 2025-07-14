@@ -1,0 +1,110 @@
+.social .socBox {
+  margin-bottom: 1rem;
+  padding: 1rem 2rem;
+
+  display: flex;
+  align-items: center;
+
+  color: #fff;
+  cursor: pointer;
+  border-radius: 1.2rem;
+  transform: scale(1);
+  transition: 0.2s ease-in-out;
+}
+
+.social .socBox:hover {
+  transform: scale(1.1);
+}
+
+.social .socBox i {
+  margin-right: 2rem;
+  font-size: 2.5rem;
+}
+
+.social .socBox span {
+  font-weight: 500;
+  font-size: 1.4rem;
+}
+
+.social .socBox:nth-child(1) {
+  background-color: #3b5998;
+}
+
+.social .socBox:nth-child(2) {
+  background: linear-gradient(
+    135deg,
+    #21b152 0%,
+    #20b051 15%,
+    #22b253 17%,
+    #21b150 18%,
+    #1fb14f 27%,
+    #21b351 29%,
+    #20b250 53%,
+    #22b452 71%,
+    #1eb04e 72%,
+    #21b351 76%,
+    #1faf4e 80%,
+    #21b150 80%,
+    #21b150 83%,
+    #21b054 83%,
+    #21b152 100%
+  );
+}
+
+.social .socBox:nth-child(3) {
+  background-color: #000;
+}
+
+.social .socBox:nth-child(4) {
+  background: linear-gradient(
+    135deg,
+    #d63a79 0%,
+    #d83979 1%,
+    #d83a75 2%,
+    #dc3d73 10%,
+    #dc3e6f 11%,
+    #e2416a 19%,
+    #e34867 24%,
+    #e34963 24%,
+    #e54b65 26%,
+    #e54c60 27%,
+    #e64f60 29%,
+    #e6505c 30%,
+    #e8525e 31%,
+    #e9545a 33%,
+    #e75558 33%,
+    #eb5f52 41%,
+    #eb634b 43%,
+    #ed654d 44%,
+    #ee6c48 49%,
+    #ee6d43 51%,
+    #f06f45 52%,
+    #ef763f 58%,
+    #f0773e 100%
+  );
+}
+
+.social .socBox:nth-child(5) {
+  background-color: #000;
+}
+
+.social .socBox:nth-child(6) {
+  background: linear-gradient(
+    135deg,
+    #21b152 0%,
+    #20b051 15%,
+    #22b253 17%,
+    #21b150 18%,
+    #1fb14f 27%,
+    #21b351 29%,
+    #20b250 53%,
+    #22b452 71%,
+    #1eb04e 72%,
+    #21b351 76%,
+    #1faf4e 80%,
+    #21b150 80%,
+    #21b150 83%,
+    #21b054 83%,
+    #21b152 100%
+  );
+}
